@@ -1,0 +1,2 @@
+$ git log --graph --pretty=oneline --abbrev-commio
+problem fixed
