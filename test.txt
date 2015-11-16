@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test branch
 second line
+=======
+hello
+>>>>>>> b40a6db7f0eba4b0c8fd375c26cea06685b50883
